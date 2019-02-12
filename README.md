@@ -9,14 +9,14 @@
 **主要功能：**  
 运动员信息录入与查询，治疗记录录入与查询，恢复状况录入与查询，自动生成月度总结表
 
-**Responsibilities:** 
+**Responsibilities:**   
 Software Development for Rehabilitation Care Records Database Management System
 
-**Tools:**
+**Tools:**  
 Used QT Creator to combine the functions and interfaces, functions were implemented by C++, Data
 inquiry and management were implemented by SQL, Database were created by Excel
 
-**Functions:**   
+**Functions:**     
 Personal information input and inquiry, treatment records input and inquiry, treatment evaluation records input and inquiry, generation of monthly summary forms
 
 
